@@ -1,1 +1,40 @@
 @charset "UTF-8";
+
+body {
+	margin: 50px;
+	font-family: monospace;
+}
+
+h1 {
+	color: purple;
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+form {
+	justify-content: space-between;
+	width: 400px;
+	font-size: 24px;
+}
+
+.container {
+	display: flex;
+	
+}
+
+.p {
+	font-size: 16px;
+}
+
+.inputs {
+	padding: 8px;
+}
+
+.nav, .nav2 {
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
